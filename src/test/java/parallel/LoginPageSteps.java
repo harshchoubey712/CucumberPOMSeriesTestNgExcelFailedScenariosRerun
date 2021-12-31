@@ -10,7 +10,8 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class LoginPageSteps {
-
+	
+	//Rewriting
 	private static String title;
 	private LoginPage loginPage = new LoginPage(DriverFactory.getDriver());
 	/*

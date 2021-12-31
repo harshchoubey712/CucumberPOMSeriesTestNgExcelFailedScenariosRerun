@@ -15,6 +15,7 @@ import io.cucumber.java.Scenario;
 
 
 
+//Rewriting
 public class ApplicationHooks {
 
 	private DriverFactory driverFactory;

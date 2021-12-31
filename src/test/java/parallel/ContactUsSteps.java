@@ -15,6 +15,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
+//Rewriting
 public class ContactUsSteps {
 	
 	private ContactUsPage contactUsPage = new ContactUsPage(DriverFactory.getDriver());

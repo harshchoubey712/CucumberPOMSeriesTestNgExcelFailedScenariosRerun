@@ -12,12 +12,14 @@ import com.pages.AccountsPage;
 import com.pages.LoginPage;
 import com.qa.factory.DriverFactory;
 
+
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 
 public class AccountsPageSteps {
 
+	//Rewriting
 	private LoginPage loginPage = new LoginPage(DriverFactory.getDriver());
 //Create loginpage class object.
 	private AccountsPage accountsPage;
